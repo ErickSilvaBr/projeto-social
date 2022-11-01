@@ -5,7 +5,6 @@
     margin: 0px;
     padding: 0px;
     font-family: 'Poppins', sans-serif;
-
 }
 
 
@@ -16,21 +15,21 @@ html, body {
     background-color: black;
 }
 
-
-
-
-main {
+body {
     background-image: url('../imagens/fundo-madeira.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
 
-    height: 100vh;
-    position: relative;
-
 }
 
-section#telefone {
+
+main {
+    height: 100vh;
+    position: relative;
+}
+
+#telefone {
     background-image: url('../imagens/frame-iphone.png');
     background-repeat: no-repeat;
     
