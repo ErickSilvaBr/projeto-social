@@ -62,19 +62,12 @@ iframe {
     width: 3.2rem;
     box-sizing: border-box;
 
-
 }
 
 #redes-sociais img:hover {
-    border: 1px solid white;
+    border: 2px solid white;
     transform: translate(-4px, -1px);
-    transition-duration: .5s;
+    transition: transform .4s;
     box-shadow: 5px 6px 10px rgba(0, 0, 0, 0.438);
 
 }
-
-
-
-
-
-
